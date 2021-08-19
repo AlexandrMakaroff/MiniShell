@@ -1,2 +1,2 @@
 # MiniShell
-Пародия на оболочку bash
+A parody of the bash shell
